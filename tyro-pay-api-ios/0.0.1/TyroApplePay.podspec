@@ -1,5 +1,13 @@
+#
+# Be sure to run `pod lib lint mypod.podspec' to ensure this is a
+# valid spec before submitting.
+#
+# Any lines starting with a # are optional, but their use is encouraged
+# To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html
+#
+
 Pod::Spec.new do |s|
-  s.name             = 'tyro-pay-api-ios'
+  s.name             = 'TyroApplePay'
   s.version          = '0.0.1'
   s.summary          = 'The Pay API SDK for iOS'
   s.swift_version    = '5.9'
