@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'TyroApplePay'
-  s.version          = '0.0.4'
+  s.version          = '1.0.0'
   s.summary          = 'The Pay API SDK for iOS'
   s.swift_version    = '5.10'
 
